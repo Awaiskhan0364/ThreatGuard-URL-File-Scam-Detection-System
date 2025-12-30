@@ -1,0 +1,4 @@
+Hello,
+Your meeting is scheduled for tomorrow at 10 AM.
+Please let me know if you are available.
+Thank you.
